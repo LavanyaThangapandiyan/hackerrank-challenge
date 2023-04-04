@@ -1,6 +1,6 @@
 import java.util.Scanner;
     
-public class Solution
+public class StdinStdoutI
 {
     
     public static void main(String[] args) 
