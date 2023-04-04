@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Solution 
+public class LoopsI 
 {
     
         public static void main(String[] args)
