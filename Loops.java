@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class Solution{
+class Loops
+{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
