@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution
+class DataTypes
 {
     public static void main(String []args)
     {
