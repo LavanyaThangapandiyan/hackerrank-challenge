@@ -1,6 +1,6 @@
 
 
-class Result
+class DateandTime
  {
     public static String findDay(int month, int day, int year) 
     {
