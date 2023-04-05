@@ -1,7 +1,8 @@
 import java.util.*;
 import java.text.*;
 
-public class Solution {
+public class CurrencyFormat 
+{
     
     public static void main(String[] args) 
     {
@@ -18,9 +19,7 @@ public class Solution {
          String india=inFormat.format(payment);
          String france=frFormat.format(payment);
          String china=cnFormat.format(payment);
-        
-        
-        
+         
         System.out.println("US: " + us);
         System.out.println("India: " + india);
         System.out.println("China: " + china);
