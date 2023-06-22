@@ -1,3 +1,6 @@
+import java.security.Permission;
+import java.util.Scanner;
+
 public class InttoString 
 {
  public static void main(String[] args)
